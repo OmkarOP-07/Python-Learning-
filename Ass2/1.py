@@ -1,7 +1,7 @@
 # different data types
 # int, float, string, boolean
-a =10;
-b =1.1;
+a =10
+b =1.1
 c = "Hello"
 d = False
 
