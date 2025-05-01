@@ -10,9 +10,3 @@ m = Number(2)
 
 print(n + m)
 
-asdlajsd
-asndjd
-hd
-UnicodeDecodeErrorpdh
-
-dh
