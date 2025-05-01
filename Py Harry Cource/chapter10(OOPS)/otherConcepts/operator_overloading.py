@@ -10,9 +10,3 @@ m = Number(2)
 
 print(n + m)
 
-hdashdihd
-sdfhsid
-kosidfholsd
-jsdh
-sodpihas
-dkpasdj
