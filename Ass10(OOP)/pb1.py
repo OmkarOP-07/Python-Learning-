@@ -1,3 +1,4 @@
+#class course
 class Course:
     def __init__(self, name, code, instructor):
         self.course_name = name
